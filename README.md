@@ -6,12 +6,14 @@ A comprehensive analysis for the California Safe Cosmetics Program (CSCP) to ide
 The dataset used for this analysis is the a CSV file containing sales data for eleven years
   - [Download Here](https://catalog.data.gov/dataset/chemicals-in-cosmetics-8c29f)
 
-[Link to interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmIxNTFmYmUtNDVhMy00OWIzLTljN2YtZThkYzk2MzBmMzU0IiwidCI6ImI0MTlmYmViLTcwZDYtNGVjNC1iMjQ4LTBmYTEwZTY1MGQxMiIsImMiOjN9)
 
 ### Introduction
 The California Safe Cosmetics Program (CSCP) is a regulatory initiative by the California Department of Public Health (CDPH) to collect and disseminate information about hazardous and potentially hazardous ingredients in cosmetic products sold within the state. The primary objective of the CSCP is to ensure transparency and public awareness regarding the potential risks associated with certain ingredients known or suspected to cause cancer, birth defects, or other developmental or reproductive harm.
 
 ### Task
 The task involves analyzing the data reported to the CSCP by cosmetic product manufacturers, packers, and distributors. This data encompasses various aspects of the products, including label names, company information, brand names, product categories, Chemical Abstracts Service (CAS) registry numbers, chemical ingredient names, reported chemical counts, and relevant dates such as initial reporting, discontinuation, or reformulation.
+
+[Link to interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmIxNTFmYmUtNDVhMy00OWIzLTljN2YtZThkYzk2MzBmMzU0IiwidCI6ImI0MTlmYmViLTcwZDYtNGVjNC1iMjQ4LTBmYTEwZTY1MGQxMiIsImMiOjN9)
+
 
 #### Please refer to the attached Word document for the project report.
