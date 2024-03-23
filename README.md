@@ -1,6 +1,11 @@
 # Chemicals-in-Cosmetics
 A comprehensive analysis for the California Safe Cosmetics Program (CSCP) to identify hazardous ingredients in cosmetic products sold in California. The data, which includes product details, company information, and chemical ingredients, is used to inform the public about potential health risks.
 
+### Data Source 
+
+The dataset used for this analysis is the a CSV file containing sales data for eleven years
+  - [Download Here](https://catalog.data.gov/dataset/chemicals-in-cosmetics-8c29f)
+
 [Link to interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmIxNTFmYmUtNDVhMy00OWIzLTljN2YtZThkYzk2MzBmMzU0IiwidCI6ImI0MTlmYmViLTcwZDYtNGVjNC1iMjQ4LTBmYTEwZTY1MGQxMiIsImMiOjN9)
 
 ### Introduction
