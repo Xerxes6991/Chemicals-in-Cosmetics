@@ -3,7 +3,7 @@ A comprehensive analysis for the California Safe Cosmetics Program (CSCP) to ide
 
 ### Data Source 
 
-The dataset used for this analysis is the a CSV file containing sales data for eleven years
+The dataset used for this analysis is a CSV file containing sales data for eleven years
   - [Download Here](https://catalog.data.gov/dataset/chemicals-in-cosmetics-8c29f)
 
 
